@@ -1,5 +1,5 @@
 const TMDB_BASE_URL = 'https://api.themoviedb.org/3';
-const TMDB_API_KEY = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlMDRiOTk1MzE5MGQ4Y2VjMzhkMWM2ZmU3ZWM5Y2ViYiIsIm5iZiI6MTc4NzY3ODE0NC42OTkwMDAxLCJzdWIiOiI2YThkY2RjMDM5MjAxOWQ5MzY5OTFlYzIiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.EYx-Gdx7ZE-akXD9tr4wwBLBQbl8IWd7Fo-nfZKTKpY';
+const TMDB_API_KEY = '9b39753cdfac20a80ce6ed51a4eaab09';
 
 async function tmdbFetch(endpoint, params = {}) {
   if (!TMDB_API_KEY) {
