@@ -268,12 +268,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## 👨‍💻 Author
 
-**Pritish Talwar**
-
-- GitHub: [@Pritishtalwar](https://github.com/Pritishtalwar)
-- Project Repository: [StreamFlix](https://github.com/Pritishtalwar/StreamFlix)
 
 ---
 
